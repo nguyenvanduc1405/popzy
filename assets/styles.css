@@ -387,3 +387,10 @@ img {
         display: none;
     }
 }
+
+.wrapper {
+    position: fixed;
+    inset: 0;
+    overflow-y: scroll;
+    padding: 50px;
+}
